@@ -1,4 +1,3 @@
-# Hierarchical-Pixel-Wavelength-Fusion-Network-for-Progressive-Hyperspectral-Image-Reconstruction
 ## Introduction
 We propose Hierarchical Pixel- Wavelength Fusion Network (HPWF-Net) to address the challenges of tree species classification and spectral reconstruction in complex forest ecosystems.
 
