@@ -12,10 +12,6 @@ HPWF- Net utilizes an enhanced U-Net architecture with multi-level loss supervis
   <summary>Qualitative comparison</summary>
   <img src="https://github.com/user-attachments/assets/1cfc7998-1778-4a0d-a15a-39436c10297b" alt="result">
 </details>
-<details>
-  <summary>Reconstructed hyperspectral imagery in near-true color, false color, and grayscale</summary>
-  ![four](https://github.com/user-attachments/assets/0ce1fa1d-0c56-4794-a54c-1469a529c150)
-</details>
 
 <details>
   <summary>Reconstructed hyperspectral imagery in near-true color, false color, and grayscale</summary>
